@@ -4,6 +4,7 @@
 
 # Ignore file
 /credentials.py
+/credential.py
 
 #Ignore txt files inside of folder
 text/*.txt
